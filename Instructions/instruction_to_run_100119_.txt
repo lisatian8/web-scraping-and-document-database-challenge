@@ -1,0 +1,16 @@
+
+
+1. open gitbash:
+
+mongod
+
+
+2. open gitbash
+source activate pythonData
+
+jupyter notebook
+
+3. go to browser, google chrome
+
+click on Mission_to_Mars.ipynb
+
