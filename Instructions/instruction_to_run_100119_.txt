@@ -1,11 +1,14 @@
 
+$ pwd
+/c/Users/tian/Documents/GitHub1207/web-scraping-and-document-database-challenge/Instructions
 
-1. open gitbash:
+
+1. open the 1st gitbash session:
 
 mongod
 
 
-2. open gitbash
+2. open the 2nd gitbash session
 source activate pythonData
 
 jupyter notebook
