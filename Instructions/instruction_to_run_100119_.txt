@@ -1,6 +1,6 @@
 
 $ pwd
-/c/Users/tian/Documents/GitHub1207/web-scraping-and-document-database-challenge/Instructions
+cd /c/Users/tian/Documents/GitHub1207/web-scraping-and-document-database-challenge/Instructions
 
 
 1. open the 1st gitbash session:
